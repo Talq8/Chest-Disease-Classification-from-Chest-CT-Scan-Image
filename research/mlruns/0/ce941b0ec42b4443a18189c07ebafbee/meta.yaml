@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Chest-Disease-Classification-from-Chest-CT-Scan-Image/research/mlruns/0/ce941b0ec42b4443a18189c07ebafbee/artifacts
+end_time: 1716356368996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce941b0ec42b4443a18189c07ebafbee
+run_name: industrious-goat-853
+run_uuid: ce941b0ec42b4443a18189c07ebafbee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716356366648
+status: 3
+tags: []
+user_id: codespace
