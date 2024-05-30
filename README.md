@@ -64,12 +64,11 @@ python script.py
 ```bash
 export MLFLOW_TRACKING_URI=https://dagshub.com/talpythonq8/Chest-Disease-Classification-from-Chest-CT-Scan-Image.mlflow
 
-export MLFLOW_TRACKING_USERNAME=talpythonq8 
+export MLFLOW_TRACKING_USERNAME=talpythonq8
 
 export MLFLOW_TRACKING_PASSWORD=66669828
 
 ```
-
 
 
 ### DVC cmd
