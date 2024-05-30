@@ -76,3 +76,9 @@ export MLFLOW_TRACKING_PASSWORD=66669828
 1. dvc init
 2. dvc repro
 3. dvc dag
+
+
+### GPU Providers
+
+1. paperspace
+2. Data Crunch
